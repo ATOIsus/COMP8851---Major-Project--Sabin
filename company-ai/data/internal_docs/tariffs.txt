@@ -1,0 +1,126 @@
+What Are Tariffs?
+Tariffs are a type of trade barrier that makes imported products more expensive than domestic products. Tariffs typically come in the form of taxes or duties levied on importers, and they're eventually passed on to consumers. They're commonly used in international trade as a protectionist measure.
+
+For example, in August 2025, President Trump implemented a 35% tariff on imports from Canada as part of his sweeping tariff reforms, in addition to a 10% tariff on energy resources.
+1
+ Tariffs are also in place or being negotiated for other countries.
+
+This article will examine how some countries react to a variety of factors that attempt to influence trade.
+
+Aerial view of a bustling port with container stacks and cranes near a body of water
+Tariffs are an extra cost added to foreign goods when they enter the country.
+Yinwei Liu / Getty Images
+Who Collects a Tariff?
+In the simplest terms, a tariff is a tax. It adds to the cost borne by consumers of imported goods and is one of several trade policies that a country can enact. Tariffs are paid to the customs authority of the country imposing the tariff.
+
+Tariffs on imports coming into the United States, for example, are collected by Customs and Border Protection, acting on behalf of the Commerce Department. In the U.K., HM Revenue & Customs (HMRC) collects the money.
+2
+3
+
+It is important to recognize that the taxes owed on imports are paid by domestic consumers and not imposed directly on the foreign country's exports. The effect is nonetheless to make foreign products relatively more expensive for consumers, but if domestic manufacturers rely on imported components or other inputs in their production process, they too will pass the increased cost on to consumers.
+
+Often, goods from abroad are cheaper because they have cheaper capital or labor costs. If those goods become more expensive, then consumers will choose the relatively costlier domestic product.
+
+Why Are Tariffs and Trade Barriers Used?
+Tariffs are often created to protect infant industries and developing economies, but are also used by more advanced economies with developed industries. Here are five of the top reasons tariffs are used.
+
+Protecting Domestic Employment
+The levying of tariffs is often highly politicized. The possibility of increased competition from imported goods can threaten domestic industries. These domestic companies may fire workers or shift production abroad to cut costs, which means higher unemployment and a less happy electorate.
+
+The unemployment argument often shifts to domestic industries complaining about cheap foreign labor, and how poor working conditions and lack of regulation allow foreign companies to produce goods more cheaply. In economics, however, countries will continue to produce goods until they no longer have a comparative advantage (not to be confused with an absolute advantage).
+
+Protecting Consumers
+A government may levy a tariff on products that it feels could endanger its population. For example, a country may place a tariff on imported beef if it thinks that the goods could be tainted with a disease.
+
+Infant Industries
+The use of tariffs to protect infant industries can be seen in the Import Substitution Industrialization (ISI) strategy employed by many developing nations. A developing economy's government will levy tariffs on imported goods in industries in which it wants to foster growth.
+
+This increases the prices of imported goods and creates a domestic market for domestically produced goods while protecting those industries from being forced out by competitive pricing. It decreases unemployment and allows developing countries to shift from agricultural products to finished goods.
+
+Criticisms of this sort of protectionist strategy revolve around the cost of subsidizing the development of infant industries. If an industry develops without competition, it could wind up producing lower-quality goods, and the subsidies required to keep the state-backed industry afloat could sap economic growth.
+4
+
+National Security
+Barriers are also employed by developed countries to protect certain industries that are deemed strategically important, such as those supporting national security. Defense industries are often viewed as vital to state interests and often enjoy significant levels of protection.
+
+For example, while both Western Europe and the United States are industrialized, both are very protective of defense-oriented companies. 
+
+Retaliation
+Countries may also set tariffs as a retaliation technique if they think that a trading partner has not played by the rules. For example, if France believes that the United States has allowed its wine producers to call its domestically produced sparkling wines "Champagne" (a name specific to the Champagne region of France) for too long, it may levy a tariff on imported goods from the United States.
+
+If the U.S. agrees to crack down on the improper labeling, France is likely to stop its retaliation. Retaliation can also be employed if a trading partner goes against the government's foreign policy objectives.
+
+President Trump's "reciprocal" tariffs on countries that have their own trade barriers against the U.S. are another example of retaliatory tariffs.
+
+Common Types of Tariffs
+There are several types of tariffs and barriers that a government can employ:
+
+Specific tariffs
+Ad valorem tariffs
+Licenses
+Import quotas
+Voluntary export restraints
+Local content requirements
+Specific Tariffs
+A fixed fee levied on one unit of an imported good is referred to as a specific tariff. This tariff can vary according to the type of goods imported. For example, a country could levy a $15 tariff on each pair of shoes imported, but levy a $300 tariff on each computer imported.
+
+Ad Valorem Tariffs
+The phrase "ad valorem" is Latin for "according to value," and this type of tariff is levied on a good based on a percentage of that good's value. An example of an ad valorem tariff would be a 15% tariff levied by Japan on U.S. automobiles.
+
+The 15% is a price increase on the value of the automobile, so a $40,000 vehicle now costs $46,000 for Japanese consumers. This price increase protects domestic producers from being undercut but also keeps prices artificially high for Japanese car shoppers.
+
+Non-Tariff Barriers to Trade
+Licenses
+A license is granted to a business by the government and allows the business to import a certain type of good into the country. For example, there could be a restriction on imported cheese, and licenses would be granted to certain companies, allowing them to act as importers. This creates a restriction on competition and increases prices for consumers.
+
+Import Quotas
+An import quota is a restriction placed on the amount of a particular good that can be imported. This sort of barrier is often associated with the issuance of licenses. For example, a country may place a quota on the volume of imported citrus fruit that is allowed.
+
+Voluntary Export Restraints (VER)
+This type of trade barrier is "voluntary" in that it is created by the exporting country rather than the importing one. A voluntary export restraint (VER) is usually levied at the behest of the importing country and could be accompanied by a reciprocal VER.
+
+For example, Brazil could place a VER on the exportation of sugar to Canada, based on a request by Canada. Canada could then place a VER on the exportation of coal to Brazil. This increases the price of both coal and sugar but protects the domestic industries.
+
+Local Content Requirement
+Instead of placing a quota on the number of goods that can be imported, the government can require that a certain percentage of a good be made domestically. The restriction can be a percentage of the good itself or a percentage of the value of the good.
+
+For example, a restriction on the import of computers might say that 25% of the pieces used to make the computer are made domestically, or might say that 15% of the value of the good must come from domestically produced components.
+
+Who Benefits From Tariffs?
+The benefits of tariffs are uneven. Because a tariff is a tax, the government will see increased revenue as imports enter the domestic market. Domestic industries also benefit from a reduction in competition, since import prices are artificially inflated.
+
+Unfortunately for consumers—both individual consumers and businesses—higher import prices mean higher prices for goods. If the price of steel is inflated due to tariffs, individual consumers pay more for products using steel, and businesses pay more for steel that they use to make goods.
+
+In short, tariffs and trade barriers tend to be pro-producer and anti-consumer.
+
+The effect of tariffs and trade barriers on businesses, consumers, and the government shifts over time. In the short run, higher prices for goods can reduce consumption by individual consumers and by businesses. During this period, some businesses will profit, and the government will see an increase in revenue from duties.
+
+In the long term, these businesses may see a decline in efficiency due to a lack of competition and may also see a reduction in profits due to the emergence of substitutes for their products. For the government, the long-term effect of subsidies is an increase in the demand for public services, since increased prices, especially in foodstuffs, leave less disposable income.
+
+How Do Tariffs Affect Prices?
+Tariffs increase the prices of imported goods. Because of this, domestic producers are not forced to reduce their prices from increased competition, and domestic consumers are left paying higher prices as a result. Tariffs also reduce efficiencies by allowing companies that would not exist in a more competitive market to remain open.
+
+The figure below illustrates the effects of world trade without the presence of a tariff. In the graph, DS means domestic supply, and DD means domestic demand. The price of goods at home is found at price P, while the world price is found at P*.
+
+At a lower price, domestic consumers will consume Qw worth of goods, but because the home country can only produce up to Qd, it must import Qw-Qd worth of goods.
+
+A supply and demand graph showing the effect of tariffs on price and quantity in trade economics
+Image by Julie Bang © Investopedia 2019
+When a tariff or other price-increasing policy is put in place, the effect is to increase prices and limit the volume of imports. In the figure below, the price increases from the non-tariff P* to P'. Because the price has increased, more domestic companies are willing to produce the good, so Qd moves right. This price increase also shifts Qw left. The overall effect is a reduction in imports, increased domestic production, and higher consumer prices.
+
+A supply and demand graph showing the impact of tariffs on supply domestic production and imports marked
+Image by Julie Bang © Investopedia 2019
+Frequently Asked Questions (FAQs)
+What Are the Main Types of Trade Barriers?
+The main types of trade barriers used by countries seeking a protectionist policy or as a form of retaliation are subsidies, standardization, tariffs, quotas, and licenses. Each of these either makes foreign goods more expensive in domestic markets or limits the supply of foreign goods in domestic markets.
+
+What Is an Example of a Tariff?
+An example of a tariff, a tax on a good imported from another country, is a 3% tariff on corn. A 3% tariff on corn would be a 3% tax added to the cost of corn paid by any domestic importer of corn from a foreign country. This would increase the cost of importing corn, resulting in an increase in the price of corn being sold domestically by the importer in order to cover the costs and earn a profit. This hurts domestic consumers, who end up paying higher prices, as well as businesses, as consumers may look for cheaper competitors that are selling domestic corn and not the more expensive imported corn.
+
+Do Tariffs Cause Inflation?
+Theoretically, tariffs can cause inflation. Tariffs increase the price of goods and services in domestic markets by applying a tax on imported goods that is paid by the domestic importer. To cover the increased costs, the domestic importer then charges higher prices for the goods and services. Tariffs are typically applied to specific products or industries, so they may not have a wide-scale effect, which, otherwise, would cause all prices to increase, resulting in inflation.
+
+The Bottom Line
+The role tariffs play in international trade has declined in modern times, though there are exceptions, notably President Trump's reciprocal tariffs in 2025. One of the primary reasons for the decline is the introduction of international organizations designed to improve globalization and free trade, such as the World Trade Organization (WTO). They make it more difficult for a country to levy tariffs and taxes on imported goods and can reduce the likelihood of retaliatory tariffs. Because of this, countries have shifted to non-tariff barriers, such as quotas and export restraints.
+5
+U.S. Department of State. Office of the Historian. "Protectionism in the Interwar Period."

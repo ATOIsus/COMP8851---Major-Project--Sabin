@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+pydantic
+langgraph
+langchain-ollama
+streamlit
+pandas
+plotly
+python-dotenv

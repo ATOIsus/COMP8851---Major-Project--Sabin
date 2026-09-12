@@ -1,0 +1,1 @@
+ax_daily_bookings=20
