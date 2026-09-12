@@ -249,3 +249,16 @@ Start the dashboard:
 ```bash
 streamlit run dashboard/app.py
 ```
+
+
+
+To run:
+pip install -r requirements.txt
+python db/init_db.py
+
+
+in 3 separate python terminals
+python run_email_agent.py   
+python -m streamlit run dashboard/app.py
+python -m uvicorn mcp_server.server:app --host 127.0.0.1 --port 8000
+
